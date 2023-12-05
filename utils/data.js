@@ -26,26 +26,26 @@ const thoughts = [
     {
         text: "I'm Alpha",
         username: 'Alpha',
-        reacts:{
+        reacts:[{
             reactBody: 'Weak',
             username: 'Sigma'
-        }
+        }]
     },
     {
         text: "Alpha is so cool",
         username: 'Beta',
-        reacts:{
+        reacts:[{
             reactBody: 'Simp',
             username: 'Omega'
-        }
+        }]
     },
     {
         text: "I'm cool too!",
         username: 'Delta',
-        reacts:{
+        reacts:[{
             reactBody: 'or not',
             username: 'Delta'
-        }
+        }]
     }
 ];
 

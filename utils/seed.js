@@ -1,4 +1,4 @@
-const connection = require('../config/connection');
+const connection = require('../config/connections');
 const { User, Thought, React } = require('../models');
 const { users, thoughts } = require('./data');
 
